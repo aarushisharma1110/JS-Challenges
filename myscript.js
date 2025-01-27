@@ -5,4 +5,4 @@ function sayHello(){
   }       
 
 //Call the function sayHello()
-sayHello():
+sayHello();
